@@ -3,7 +3,7 @@
 Data & AI professional with experience in financial services, healthcare, 
 and regulated enterprise environments.
 
-## 🔹 Featured Projects
+## Featured Projects
 
 ### 1. Agentic AI System for Governed Financial Insights
 **Tech:** LangGraph, Agentic AI, Human-in-the-Loop, Python  
