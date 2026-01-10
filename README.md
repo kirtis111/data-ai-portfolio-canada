@@ -3,6 +3,18 @@
 Data & AI professional with experience in financial services, healthcare, 
 and regulated enterprise environments.
 
+## Resume Dashboard (Executive View)
+
+![resume_dashboard_preview](https://github.com/user-attachments/assets/ed8c1a9c-402c-4e2f-8a17-1f2ec616b22a)
+
+**[Download full PDF resume dashboard](resume-dashboard/Kirti_Sinha_Data_Scientist_AI_Resume_Dashboard.pdf)**
+
+## Key Highlights
+- 10+ years of experience in Data, AI & Analytics
+- $250K+ annual cost savings delivered
+- 180+ analyst hours saved per month through AI automation
+- Expertise in ML, GenAI, RAG, and Agentic AI systems
+
 ## Featured Projects
 
 ### 1. Agentic AI System for Governed Financial Insights
