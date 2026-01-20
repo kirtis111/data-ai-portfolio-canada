@@ -27,10 +27,10 @@ Key Highlights:
 - Realistic churn definition (90-day observation → 30-day prediction) tailored to Retail & Consumer behavior
 - RFM + behavioral feature engineering, leakage-free modeling
 - Baseline (Logistic) and advanced (XGBoost) models evaluated with ROC-AUC, PR-AUC, and Lift@Top10%
-- SHAP explainability enables business-aligned insights for retention strategies
-- Deployed as FastAPI inference service + Streamlit scoring UI for single & batch predictions
+- SHAP-driven business insights for retention actions
+- FastAPI inference service with Streamlit scoring UI
 - Architecture, documentation & business context
-
+  
 ### 2. Agentic AI System for Governed Financial Insights
 **Tech:** LangGraph, Agentic AI, Human-in-the-Loop, Python  
 **Focus:** Financial insights with validation, approvals, and auditability
