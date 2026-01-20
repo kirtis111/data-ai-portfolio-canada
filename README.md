@@ -18,7 +18,7 @@ and regulated enterprise environments.
 ## Featured Projects
 
 ### 1. Retail Customer Churn Analytics & Deployment
-**Tech:** Python, XGBoost, SHAP, FastAPI, Streamlit
+**Tech:** Python, XGBoost, SHAP, FastAPI, Streamlit  
 **Focus:** Predicting and prioritizing retail customer churn with explainable ML and production-style deployment
 
 🔗 Repo: https://github.com/kirtis111/customer-churn-analytics-retail
