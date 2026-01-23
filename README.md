@@ -4,9 +4,7 @@ Data & AI professional with experience in financial services, retail, and regula
 
 ## Resume Dashboard (Executive View)
 
-![resume_dashboard_preview](https://github.com/user-attachments/assets/ed8c1a9c-402c-4e2f-8a17-1f2ec616b22a)
-
-**[Download full PDF resume dashboard](resume-dashboard/Kirti_Sinha_Data_Scientist_AI_Resume_Dashboard.pdf)**
+![Kirti_Sinha_Data_Scientist_AI_Resume_Dashboard](https://github.com/user-attachments/assets/f372416f-8509-45ae-8755-c0e3f0f48c44)
 
 ## Key Highlights
 - 5+ years of experience in Data, AI & Analytics
