@@ -6,6 +6,8 @@ Data & AI professional with experience in financial services, retail, and regula
 
 ![Kirti_Sinha_Data_Scientist_AI_Resume_Dashboard](https://github.com/user-attachments/assets/f372416f-8509-45ae-8755-c0e3f0f48c44)
 
+[Download Resume Dashboard (PDF)](resume-dashboard/Kirti_Sinha_Data_Scientist_AI_Resume_Dashboard.pdf)
+
 ## Key Highlights
 - 5+ years of experience in Data, AI & Analytics
 - $250K+ annual cost savings delivered
