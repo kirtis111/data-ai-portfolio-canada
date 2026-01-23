@@ -61,7 +61,18 @@ Key Highlights:
 - Baseline (Logistic) and advanced (XGBoost) models evaluated with ROC-AUC, PR-AUC, and Lift@Top10%
 - SHAP-driven business insights for retention actions
 - FastAPI inference service with Streamlit scoring UI
-- Architecture, documentation & business context
+
+### 5. Retail Store Sales Forecasting (End-to-End ML)
+**Tech:** Python, Pandas, Scikit-learn, XGBoost, Time Series, Feature Engineering
+**Focus:** Forecasting store-level retail sales using historical trends, seasonality, and business-aware ML pipelines
+
+🔗 Repo: https://github.com/kirtis111/store-sales-forecasting-e2e
+
+Key Highlights:
+- End-to-end ML pipeline from raw retail sales data to forecast-ready features
+- Time-aware feature engineering (lags, rolling windows, seasonality signals)
+- Baseline (Linear/Tree-based) and advanced (XGBoost) models for sales prediction
+- Evaluation using RMSE and business-interpretable error analysis
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/kirtisinha11/
