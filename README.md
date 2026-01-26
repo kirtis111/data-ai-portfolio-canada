@@ -50,7 +50,7 @@ Key Highlights:
 - Designed for Canadian compliance use cases
 
 ### 4. Retail Customer Churn Analytics & Deployment
-**Tech:** Python, XGBoost, SHAP, FastAPI, Streamlit  
+**Tech:** Python, XGBoost, SHAP, FastAPI, Streamlit   
 **Focus:** Predicting and prioritizing retail customer churn with explainable ML and production-style deployment
 
 🔗 Repo: https://github.com/kirtis111/customer-churn-analytics-retail
@@ -63,7 +63,7 @@ Key Highlights:
 - FastAPI inference service with Streamlit scoring UI
 
 ### 5. Retail Store Sales Forecasting (End-to-End ML)
-**Tech:** Python, Pandas, Scikit-learn, XGBoost, Time Series, Feature Engineering
+**Tech:** Python, Pandas, Scikit-learn, XGBoost, Time Series, Feature Engineering  
 **Focus:** Forecasting store-level retail sales using historical trends, seasonality, and business-aware ML pipelines
 
 🔗 Repo: https://github.com/kirtis111/store-sales-forecasting-e2e
@@ -73,6 +73,19 @@ Key Highlights:
 - Time-aware feature engineering (lags, rolling windows, seasonality signals)
 - Baseline (Linear/Tree-based) and advanced (XGBoost) models for sales prediction
 - Evaluation using RMSE and business-interpretable error analysis
+
+### 6. E-Commerce Recommendation System (Implicit Feedback)
+**Tech:** Python, Pandas, Implicit (ALS), FastAPI, Streamlit  
+**Focus:** Personalized product recommendations using implicit user behavior with offline evaluation and production-style serving
+
+🔗 Repo: https://github.com/kirtis111/e-commerce-recommendation-system
+
+Key Highlights:
+- Popularity, Item-Item Collaborative Filtering, ALS (Implicit Matrix Factorization), and Hybrid recommender
+- Time-aware evaluation using Recall@K, NDCG@K, and Coverage@K
+- Hybrid model balancing personalization, discovery, and catalog coverage
+- FastAPI-based model serving with a Streamlit demo UI
+- Clear system architecture and data flow diagrams
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/kirtisinha11/
